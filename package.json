@@ -1,0 +1,8 @@
+{
+  "name": "nextjs-multi-zones-monorepo",
+  "private": true,
+  "workspaces": [
+    "blog/*",
+    "home/*"
+  ]
+}
